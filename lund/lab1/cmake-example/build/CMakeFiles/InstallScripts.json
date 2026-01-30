@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/lucas/courses/cpp/lund/lab1/cmake-example/build/cmake_install.cmake",
+		"/home/lucas/courses/cpp/lund/lab1/cmake-example/build/testlib/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

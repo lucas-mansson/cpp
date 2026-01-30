@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/SimpleMain.dir/link.d CMakeFiles/SimpleMain.dir/main.cc.o -o SimpleMain  testlib/libTestLib.a
